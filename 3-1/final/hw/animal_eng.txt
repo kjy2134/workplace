@@ -1,0 +1,6 @@
+강아지, dog
+고양이, cat
+코끼리, elepant
+사람, human
+기린, graff
+
